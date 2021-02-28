@@ -20,3 +20,7 @@ This app is able to check the weather for the current location based on the GPS 
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Use Grand Central Dispatch to fetch the main thread.
 * Use Core Location to get the current location from the phone GPS. 
+
+<p align="center">
+	<img width="414" height="896" src="Documentation/Clima.gif">
+</p>
